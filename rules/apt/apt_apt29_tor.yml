@@ -7,7 +7,7 @@ references:
 tags:
     - attack.command_and_control
     - attack.g0016
-    - attack.t1172
+    - attack.t1031
 logsource:
     product: windows
 detection:
